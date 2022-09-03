@@ -143,9 +143,9 @@
             echo '<br /><hr>';
             if ($counter == "") {
                 $counter = '0';
-                $results = "Your score: $counter/10";
+                $results = "Sua pontuação: $counter/10";
             } else {
-                $results = "Your score: $counter/10";
+                $results = "Sua pontuação: $counter/10";
             }
         }
         echo $results;
